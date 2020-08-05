@@ -10,7 +10,7 @@ https://tessakam.github.io/progressive-enhancement
 
 * Done: Semantics & co
 * Done: CSS selectors
-* To do: CSS positioning 
+* To do: CSS positioning part 3
 * To do: Web fonts
 * To do: Useful tools
 
