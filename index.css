@@ -1,8 +1,11 @@
 body{
     font-family:"Georgia",serif;
     max-width: 90%;
-    background-image:url("https://www.jooinn.com/sea-water-2.html");
+    background-image:url("https://selfgrowth.info/photos/free-beach-pictures/top-beach-pictures-without-background9270.jpg");
     background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
 }
 
 p{
@@ -23,9 +26,7 @@ q{
     padding: 80px 30px 30px;
 }
 
-a{
+a:link, a:visited {
     text-decoration: underline overline;
     font-weight: bold;
-
-
 }
