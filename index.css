@@ -3,7 +3,7 @@ body{
     max-width: 90%;
     background-image:url("https://selfgrowth.info/photos/free-beach-pictures/top-beach-pictures-without-background9270.jpg");
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center;
     background-size: cover;
 
 }
@@ -26,7 +26,15 @@ q{
     padding: 80px 30px 30px;
 }
 
-a:link, a:visited {
+a{
     text-decoration: underline overline;
     font-weight: bold;
+}
+
+.farmer{
+    color: deeppink;
+}
+
+.villagers{
+    color: darkmagenta;
 }
