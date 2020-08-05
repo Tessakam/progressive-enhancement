@@ -1,0 +1,26 @@
+body{
+    font-family:"Georgia",serif;
+    max-width: 90%;
+}
+
+p{
+    color: darkslategrey;
+    font-size: 110%;
+    line-height: 110%;
+    max-width: 50%;
+    margin: auto
+}
+q{
+    display: block;
+    text-align: center;
+    font-size: 160%;
+    background-color: gainsboro;
+    border: 3px solid grey;
+    border-left: 3px dashed grey
+}
+
+a{
+    text-decoration: underline overline;
+    font-weight: bold;
+
+}
