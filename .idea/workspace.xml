@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19c785dd-ead8-4d78-ab37-d9f9fdc5ee7e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fdaC3soLMC5uJbw4bcqw33ieuY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19c785dd-ead8-4d78-ab37-d9f9fdc5ee7e" name="Default Changelist" comment="" />
+      <created>1596550293133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596550293133</updated>
+      <workItem from="1596550294287" duration="3096000" />
+      <workItem from="1596610906844" duration="8453000" />
+      <workItem from="1596619795082" duration="6458000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1714" y="138" width="800" height="712" key="#Plugins" timestamp="1596551476073">
+      <screen x="1366" y="32" width="1440" height="900" />
+    </state>
+    <state x="1714" y="138" width="800" height="712" key="#Plugins/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1596551476073" />
+    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl" timestamp="1596619860081">
+      <screen x="1366" y="32" width="1440" height="900" />
+    </state>
+    <state x="1902" y="252" width="424" height="484" key="FileChooserDialogImpl/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1596619860081" />
+    <state x="1608" y="129" key="SettingsEditor" timestamp="1596611326513">
+      <screen x="1366" y="32" width="1440" height="900" />
+    </state>
+    <state x="1608" y="129" key="SettingsEditor/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1596611326513" />
+    <state x="1782" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1596551448236">
+      <screen x="1366" y="32" width="1440" height="900" />
+    </state>
+    <state x="1782" y="244" width="672" height="678" key="search.everywhere.popup/1366.32.1440.900/0.59.1366.709@1366.32.1440.900" timestamp="1596551448236" />
+  </component>
+</project>

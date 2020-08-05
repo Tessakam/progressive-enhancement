@@ -1,6 +1,8 @@
 body{
     font-family:"Georgia",serif;
     max-width: 90%;
+    background-image:url("https://www.jooinn.com/sea-water-2.html");
+    background-repeat: no-repeat;
 }
 
 p{
@@ -8,19 +10,22 @@ p{
     font-size: 110%;
     line-height: 110%;
     max-width: 50%;
-    margin: auto
+    margin: auto;
 }
+
 q{
     display: block;
     text-align: center;
     font-size: 160%;
-    background-color: gainsboro;
+    background-image: linear-gradient(lightblue, lightyellow);
     border: 3px solid grey;
-    border-left: 3px dashed grey
+    border-left: 3px dashed grey;
+    padding: 80px 30px 30px;
 }
 
 a{
     text-decoration: underline overline;
     font-weight: bold;
+
 
 }
