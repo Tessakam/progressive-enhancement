@@ -13,7 +13,7 @@ https://tessakam.github.io/progressive-enhancement
 * Done: CSS positioning part 3
 * Done: Web fonts
 * Done: Useful tools
-* Result Lighthouse 97/100/100/95
+* Result Lighthouse 100/100/100/95
 
 ### TIMING
 3 days
