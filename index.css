@@ -9,7 +9,7 @@ body{
 
 @font-face {
     font-family: OpenSans, sans-serif;
-    src: url(OpenSans-Light.ttf)
+    src: url(OpenSans-Light.ttf);
 }
 
 p{
