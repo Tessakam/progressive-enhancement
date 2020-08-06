@@ -15,6 +15,14 @@ p{
     margin: auto;
 }
 
+.image{
+    width: 20%;
+    height: 20%;
+    display: block;
+    float: right;
+    margin: 2%;
+}
+
 q{
     display: block;
     text-align: center;
