@@ -7,6 +7,11 @@ body{
     background-size: cover;
 }
 
+@font-face {
+    font-family: OpenSans, sans-serif;
+    src: url(OpenSans-Light.ttf)
+}
+
 p{
     color: darkslategrey;
     font-size: 110%;
@@ -15,14 +20,23 @@ p{
     margin: auto;
 }
 
-.image{
-    width: 20%;
-    height: 20%;
+.picture{
+    width: 50%;
+    height: 50%;
     display: block;
-    float: right;
+    float: left;
     margin: 2%;
 }
 
+.author{
+    display: block;
+    margin-top: 5%;
+    margin-bottom:1%
+}
+
+.story{
+    margin-top: 20%;
+}
 q{
     display: block;
     text-align: center;
@@ -30,7 +44,7 @@ q{
     background-image: linear-gradient(lightblue, lightyellow);
     border: 3px solid grey;
     border-left: 3px dashed grey;
-    padding: 80px 30px 30px;
+    padding: 20px 30px 30px;
 }
 
 a{
@@ -41,12 +55,14 @@ a{
 q.farmer{
     color: deeppink;
     border-left: 3px dashed deeppink;
+    margin-outside: 1%;
 }
 
 q.villagers{
     color: darkmagenta;
     border-left: 3px dashed darkmagenta;
-
+    margin-top: 1%;
+    margin-outside: 1%;
 }
 
 H1{
@@ -62,6 +78,15 @@ H1{
     color: indianred;
 }
 
+.grey{
+    background-color: grey;
+}
+
+.white{
+    background-color: white;
+}
+
 .first{
     font-weight: bold;
+    text-align: center;
 }
