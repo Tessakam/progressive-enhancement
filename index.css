@@ -1,13 +1,13 @@
-body{
-    font-family:"Georgia",serif;
+body {
+    font-family: "Georgia", serif;
     max-width: 90%;
-    background-image:url("https://selfgrowth.info/photos/free-beach-pictures/top-beach-pictures-without-background9270.jpg");
+    background-image: url("https://selfgrowth.info/photos/free-beach-pictures/top-beach-pictures-without-background9270.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
-@font-face {
+@font-face{
     font-family: OpenSans, sans-serif;
     src: url(OpenSans-Light.ttf);
 }
