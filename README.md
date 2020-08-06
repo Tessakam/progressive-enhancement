@@ -13,7 +13,7 @@ https://tessakam.github.io/progressive-enhancement
 * Done: CSS positioning part 3
 * Done: Web fonts
 * Done: Useful tools
-* Result Lighthouse 100/100/100/95
+* Result Lighthouse 100/100/100/92
 
 ### TIMING
 3 days
@@ -28,7 +28,8 @@ solo
 * https://stackoverflow.com/questions/8587193/specific-tags-in-css
 * float issues https://developer.mozilla.org/en-US/docs/Web/CSS/float
 * hard refresh:CTRL+SHIFT+R
-* non standard fonts + download font family https://fonts.google.com
+* non standard fonts + download font family https://fonts.google.com (twice > in body > @font-face)
+
 
 ##### SOURCE INSTRUCTIONS
 https://github.com/becodeorg/atw-giertz-3-23/blob/master/1.The-Field/4.HTML-CSS/1.HTML-CSS-Basics/5.Exercise-Progressive-Enhancement.md
