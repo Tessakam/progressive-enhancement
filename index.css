@@ -1,5 +1,5 @@
 body {
-    font-family: "Georgia", serif;
+    font-family:OpenSans, sans-serif;
     max-width: 90%;
     background-image: url("https://selfgrowth.info/photos/free-beach-pictures/top-beach-pictures-without-background9270.jpg");
     background-repeat: no-repeat;
@@ -16,7 +16,7 @@ p{
     color: darkslategrey;
     font-size: 110%;
     line-height: 110%;
-    max-width: 50%;
+    max-width: 110%;
     margin: auto;
 }
 
@@ -90,7 +90,7 @@ H1{
     background-color: white;
 }
 
-.first{
+.intro{
     font-weight: bold;
     text-align: left;
 }
