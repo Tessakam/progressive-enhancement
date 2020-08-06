@@ -52,6 +52,10 @@ a:link, :visited{
     font-weight: bold;
 }
 
+article{
+    max-width: 50%;
+}
+
 q.farmer{
     color: deeppink;
     border-left: 3px dashed deeppink;
@@ -88,8 +92,9 @@ H1{
 
 .first{
     font-weight: bold;
-    text-align: center;
+    text-align: left;
 }
+
 .footer{
     font-weight: bold;
     text-align: center;
