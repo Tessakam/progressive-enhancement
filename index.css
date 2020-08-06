@@ -47,9 +47,14 @@ q{
     padding: 20px 30px 30px;
 }
 
-a:link, :visited{
-    text-decoration: underline overline;
+a:hover, a:active{
+    background-color: white;
+    color: darkred;
     font-weight: bold;
+}
+
+a:visited {
+    color: grey;
 }
 
 article{
@@ -95,7 +100,13 @@ H1{
     text-align: left;
 }
 
-.footer{
+.footer {
     font-weight: bold;
     text-align: center;
+}
+
+footer:hover, footer:active{
+    background-color: white;
+    color: darkred;
+    font-weight: bold;
 }
