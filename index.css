@@ -47,7 +47,7 @@ q{
     padding: 20px 30px 30px;
 }
 
-a{
+a:link, :visited{
     text-decoration: underline overline;
     font-weight: bold;
 }
@@ -87,6 +87,10 @@ H1{
 }
 
 .first{
+    font-weight: bold;
+    text-align: center;
+}
+.footer{
     font-weight: bold;
     text-align: center;
 }
